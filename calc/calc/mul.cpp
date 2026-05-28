@@ -1,7 +1,7 @@
 
 #include "mul.h"
 
-int mul(int, int)
+int mul(int x, int y)
 {
-
+	return *ydfa;
 }
