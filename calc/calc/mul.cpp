@@ -3,5 +3,5 @@
 
 int mul(int x, int y)
 {
-	return x*ydfa;
+	return *ydfa;
 }
