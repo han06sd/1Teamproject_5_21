@@ -1,2 +1,4 @@
-# 아무거나 써보기
-21ㅓㄴ째 시도
+#include "sub.h"
+int sub(int a, int b) {
+	return a - b;
+}
